@@ -1,6 +1,6 @@
 TimeTracker
 ===========
-This is a android app,whose most of source code comes from the book *Android UI Fundamental Develop and Design*.
+This is an android app,whose most of source code comes from the book *Android UI Fundamental Develop and Design*.
 -----------
 I make this repository as a Learning Note.
 ##Develope Environment.
